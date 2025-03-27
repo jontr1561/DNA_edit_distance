@@ -1,0 +1,1 @@
+A project that compares the edit distance between pairs of DNA sequences that are randomly generated versus real-life sequences. The edit distance algorithm is implemented through the use of dynamic programming tabulation. Real-life species DNA sequences are attained through NCBI database through their individual assension codes.
